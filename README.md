@@ -3,11 +3,6 @@
 A responsive **Spotify Clone** built using **HTML5 and CSS3**, inspired by the official Spotify Web Player.
 This project recreates Spotify’s modern dark-themed interface with sidebar navigation, playlist cards, and a bottom music player UI.
 
-
-## 📸 Screenshot
-
-![Spotify Clone Screenshot](./assets/Screenshot%202026-04-24%20224803.png)
-
 ## ✨ Features
 
 * 🎧 Spotify inspired modern UI
