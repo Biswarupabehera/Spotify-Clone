@@ -38,20 +38,6 @@ Spotify-Clone/
 │── README.md
 ```
 
-## ⚙️ Installation
-
-1. Clone this repository
-
-```bash id="v2f6m0"
-git clone https://github.com/Gangittla-hari/Spotify-Clone.git
-```
-
-2. Open project folder
-
-```bash id="r9c4x7"
-cd Spotify-Clone
-```
-
 3. Run `index.html` in browser
 
 ## 🎯 Future Improvements
