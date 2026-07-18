@@ -38,8 +38,6 @@ Spotify-Clone/
 │── README.md
 ```
 
-3. Run `index.html` in browser
-
 ## 🎯 Future Improvements
 
 * Add animations
